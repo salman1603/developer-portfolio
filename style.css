@@ -60,4 +60,16 @@ h2{font-size:30px;}
     background-repeat: no-repeat;
     background-position: left bottom;
 }
-    
+#full-stack-developer{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon,tomato) ;
+    border-image-slice: 1;
+}
+#application-ui{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan) ;
+    border-image-slice: 1;
+}
+footer p {
+    text-align: center;
+}
